@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+joblib
+pydantic
+gradio
+huggingface_hub
